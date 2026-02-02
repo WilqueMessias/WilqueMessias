@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%94%90+Building+Secure+Systems+for+Public+Safety;%F0%9F%87%A7%F0%9F%87%B7+Developing+Integration+Solutions+in+Brazil;%F0%9F%92%BB+Python+%7C+Django+%7C+APIs+%7C+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%94%90+Building+Secure+Systems+for+Public+Safety;%F0%9F%87%A7%F0%9F%87%B7+Developing+Integration+Solutions+in+Brazil;%F0%9F%92%BB+Python+%7C+Django+%7C+APIs+%7C+Automation" alt="Wilque Messias - Typing Animation" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/wilquemessias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/wilquemessias"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:wilquemessias@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=WilqueMessias&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -108,12 +108,12 @@ class WilqueMessias:
         ]
     
     def contact(self):
-        return "Connect to collaborate on high-impact tech solutions."
+        return "wilquemessias@gmail.com"
 ```
 
 ---
 
-## 📈 Contribuições
+## 📈 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilqueMessias/WilqueMessias/output/github-contribution-grid-snake-dark.svg">
